@@ -1,4 +1,4 @@
-# GTsurvival
+##  GTsurvival
 
 This repository contains python and R implementation of the algorithms proposed in GTsurvival.
 
