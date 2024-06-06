@@ -34,7 +34,7 @@ It is required to install the following dependencies in order to be able to run 
 
 ## Data
 
-The data used in this research are collected from R package bayesSurv and ADNIMERGE.
+The example data used in this research are generated from R script:Main.R.
 
 
 ## Functions
